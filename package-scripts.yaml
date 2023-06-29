@@ -1,0 +1,12 @@
+scripts:
+  # dev
+  dev:
+    default: vite --port=4000
+  # build
+  build:
+    default: vite build
+    preview: vite preview
+  # commit
+  commit: git-cz
+  # eslint
+  lint: eslint src/**/*.{js,vue} --fix
