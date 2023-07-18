@@ -21,8 +21,6 @@
     }
   },
   "dependencies": {
-    "eslint-config-prettier": "^8.8.0",
-    "eslint-plugin-prettier": "^4.2.1",
     "nps": "^5.10.0",
     "vue": "^3.2.47"
   },
